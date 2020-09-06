@@ -8,7 +8,7 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ git clone https://github.com/anaya-bff-sherry/anaya
 $ ls
-$ cd anaya
+$ cd Anaya
 $ ls
 $ python2 anaya.py
 
@@ -22,7 +22,7 @@ $ apt-get update
 $ pip install requests
 $ pip install mechanize
 $ git clone https://github.com/anaya-bff-sherry/anaya
-$ cd anaya
+$ cd Anaya
 $ ls
 $ python anaya.py
 ```
