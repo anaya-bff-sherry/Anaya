@@ -170,7 +170,7 @@ def login():
 		print('\33[1;94m⚡\33[1;94m⚞▇▇▇▇▇▇▇▇▇═─\33[1;97mLOGIN WITH FACEBOOK\33[1;94m─═▇▇▇▇▇▇▇▇▇⚟\33[1;94m⚡')
 		
 		id = raw_input('          \033[1;97m[◉] \x1b[1;97mID/Email ✎\x1b[1;95m: \x1b[1;91m')
-		pwd = raw_input('     \033[1;97m[◉] \x1b[1;97mPassword ✎\x1b[1;91m: \x1b[1;92m')
+		pwd = raw_input('         \033[1;97m[◉] \x1b[1;97mPassword ✎\x1b[1;91m: \x1b[1;92m')
 		
 		tik()
 		try:
